@@ -1,0 +1,36 @@
+|------------------------------------------------------------------------------------------|
+|                                      WinMTR statistics                                   |
+|                       Host              -   %  | Sent | Recv | Best | Avrg | Wrst | Last |
+|------------------------------------------------|------|------|------|------|------|------|
+|                            Linksys12776 -    0 |  519 |  519 |    0 |    0 |    1 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|dtr01lntnnc-tge-0-1-0-1.lntn.nc.charter.com -    0 |  519 |  519 |    8 |   15 |   38 |   15 |
+| its01knlync-gbe-0-3.knly.nc.charter.com -    0 |  519 |  519 |   10 |   16 |   41 |   14 |
+|   bbr01spbgsc-bue-4.spbg.sc.charter.com -    0 |  519 |  519 |   10 |   20 |   42 |   23 |
+| bbr01gnvlsc-bue-800.gnvl.sc.charter.com -    0 |  519 |  519 |   12 |   20 |   46 |   16 |
+|bbr01aldlmi-tge-0-0-0-13.aldl.mi.charter.com -    0 |  519 |  519 |   23 |   32 |   58 |   25 |
+|   prr01ashbva-bue-3.ashb.va.charter.com -    0 |  519 |  519 |   20 |   26 |   54 |   24 |
+|        Destination network unreachable. -  100 |  108 |    0 |    0 |    0 |    0 |    0 |
+|        Destination network unreachable. -  100 |  105 |    0 |    0 |    0 |    0 |    0 |
+|        Destination network unreachable. -  100 |  108 |    0 |    0 |    0 |    0 |    0 |
+|        Destination network unreachable. -  100 |  106 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|        Destination network unreachable. -  100 |  108 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |  104 |    0 |    0 |    0 |    0 |    0 |
+|________________________________________________|______|______|______|______|______|______|
+   WinMTR v0.92 GPL V2 by Appnor MSP - Fully Managed Hosting & Cloud Provider
